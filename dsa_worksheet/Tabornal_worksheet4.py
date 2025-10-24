@@ -1,6 +1,8 @@
 # Problem 1: Encapsulation & Abstraction
 
 
+# %%
+
 class Employee:
     """Represents an employee with a name and salary."""
     def __init__(self, name, salary: float):
